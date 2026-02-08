@@ -54,18 +54,6 @@ As part of our **Natural Language Processing & Information Extraction** course, 
 
 ---
 
-### 💼 Professional Experience
-**Performance Analyst | NSP Group (2020–2024)**  
-- Standardized ERP workflows and designed BI dashboards  
-- Validated cross-departmental data pipelines  
-- Digitized procurement data, reducing cost deviations by **7%**
-
-**Planning & Performance Analyst | Hami Omid Company (2016–2020)**  
-- Applied statistical forecasting and anomaly detection  
-- Aligned KPIs across departments to improve data quality and reporting
-
----
-
 ### 🛠️ Skills
 **Programming & Tools:**  
 Python, SQL, Excel, SAP, Prefect
